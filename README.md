@@ -41,14 +41,7 @@
 3. <a href="https://learn.javascript.ru/try-catch" target="_blank">Обработка ошибок</a>
 
 
-### Я, Исмаил Усеинов:
+### Исмаил Усеинов:
 * __YouTube канал ITDoctor:__ https://www.youtube.com/c/ITDoctor
 * __Телеграм:__ https://t.me/itdoctorstudio
 * __Группа в ВК:__ https://vk.com/itdoctorstudio
-* __Instagram:__ https://instagram.com/ismail_asanovich/
-
-### Донаты ( ₽ ):
-* __СберБанк VISA:__ 4274 3200 3233 1582
-* __YooMoney:__ https://sobe.ru/na/itdoctor 
-* __PayPal__ https://paypal.me/itdoctorstudio
-* __Станьте спонсором Youtube канала:__ https://www.youtube.com/channel/UC2Ev-rDSHBov0ZMChesLfrg/join
